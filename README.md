@@ -12,3 +12,4 @@ My codewars kata solutions
 |31/12/21   |[Grasshopper-Check for factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)   |8   |Solved   |
 |31/12/21   |[Grasshopper-Gradebook](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)   |8   |Solved   |
 |31/12/21|[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/python)|8|Solved|
+|31/12/21|[Beginner Series#1 Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)|8|Solved|
