@@ -2,7 +2,7 @@
 My codewars kata solutions
 
 
-|Date   |Kata   |Difficulty<Kyu>   |Progress   |
+|Date   |Kata   |Difficulty(**Kyu**)   |Progress   |
 |---|---|---|---|
 |   |[Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)   |8   |Solved   |
 |   |[List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)   |7   |Solved   |
