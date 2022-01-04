@@ -2,8 +2,8 @@
 My codewars kata solutions
 
 
-|Date   |Kata   |Difficulty(**Kyu**)   |Progress   |
-|---|---|---|---|
+|Date   |Kata   |Difficulty(**Kyu**)   |Progress   |Solution |
+|---|---|---|---|---|
 |   |[Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)   |8   |Solved   |
 |   |[List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)   |7   |Solved   |
 |   |[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)   |8   |Unsolved   |
@@ -13,3 +13,4 @@ My codewars kata solutions
 |31/12/21   |[Grasshopper-Gradebook](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)   |8   |Solved   |
 |31/12/21|[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/python)|8|Solved|
 |31/12/21|[Beginner Series#1 Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)|8|Solved|
+|4/1/22|[Pair of Gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/Pair%20of%20gloves.py)|
