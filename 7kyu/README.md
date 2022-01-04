@@ -1,1 +1,1 @@
-#My 7kyu Codewars solutions
+# My 7kyu Codewars solutions
