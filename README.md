@@ -14,3 +14,4 @@ My codewars kata solutions
 |31/12/21|[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/python)|8|Solved|
 |31/12/21|[Beginner Series#1 Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)|8|Solved|
 |4/1/22|[Pair of Gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/Pair%20of%20gloves.py)|
+10/1/22|[Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/python)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/duplicateEncoder.py)
