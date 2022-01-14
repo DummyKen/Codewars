@@ -17,3 +17,4 @@ My codewars kata solutions
 10/1/22|[Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/python)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/duplicateEncoder.py)
 11/1/22|[Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/uniquenumber.py)
 12/1/22|[Series of integers from 0 to n](https://www.codewars.com/kata/5841f4fb673ea2a2ae000111/train/python)|7|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/seriesOfIntegers.py)
+14/1/22|[Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)|8|Solved|[JS Solution]()
