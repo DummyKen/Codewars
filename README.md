@@ -18,3 +18,4 @@ My codewars kata solutions
 12/1/22|[Series of integers from 0 to n](https://www.codewars.com/kata/5841f4fb673ea2a2ae000111/train/python)|7|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/seriesOfIntegers.py)
 14/1/22|[Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)|8|Solved|[JS Solution](https://github.com/DummyKen/Codewars/blob/main/8kyu/evenodd.js)
 |14/1/22|[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)   |8   |Solved   |[Solution](https://github.com/DummyKen/Codewars/blob/main/8kyu/totalpoints.py)
+15/1/22|[String ends with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/python)|7|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/stringendswith.py)
