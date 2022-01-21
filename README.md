@@ -25,3 +25,4 @@ My codewars kata solutions
 21/1/22|[Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)|7|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/shortest_word.py)
 21/1/22|[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/python)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/multiples_3or5.py)
 21/1/22|[Find the parity outliner](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/solutions/python)|6|Solved|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/parity_outliner.py)
+21/1/22|[First Non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python)|5|Solved|[Solution]((https://github.com/DummyKen/Codewars/blob/main/5kyu/first_nonrepeating.py)
