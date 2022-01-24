@@ -29,3 +29,4 @@ My codewars kata solutions
 22/1/22|[Square every digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/square_every_digit.py)
 24/1/22|[List Filtering Solutions](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/list_filtering.py)
 24/1/22|[Number of people in the bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/people_on_bus.py)
+24/1/22|[Double Every Other](https://www.codewars.com/kata/5809c661f15835266900010a/train/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/double_every_other.py)
