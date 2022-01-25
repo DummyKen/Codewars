@@ -33,3 +33,4 @@ My codewars kata solutions
 24/1/22|[Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/bit_counting.py)
 24/1/22|[Two to one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/two_to_one.py)
 25/1/22|[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/odd_int.py)
+25/1/22|[Stop gninnipS My sdroW](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/gninnipS_words.py)
