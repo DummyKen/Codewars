@@ -34,3 +34,4 @@ My codewars kata solutions
 24/1/22|[Two to one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/two_to_one.py)
 25/1/22|[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/odd_int.py)
 25/1/22|[Stop gninnipS My sdroW](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/gninnipS_words.py)
+26/1/22|[JavaScript array filter](https://www.codewars.com/kata/514a6336889283a3d2000001/solutions/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/array_filter.py)
