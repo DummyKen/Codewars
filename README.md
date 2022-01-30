@@ -37,3 +37,4 @@ My codewars kata solutions
 26/1/22|[JavaScript array filter](https://www.codewars.com/kata/514a6336889283a3d2000001/solutions/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/array_filter.py)
 27/1/22|[Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/array_diff.py)
 28/1/22|[Moving zeroes to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)|5|[Solution](https://github.com/DummyKen/Codewars/blob/main/5kyu/move_zeroes_toend.py)
+30/1/22|[Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/solutions/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/counting_duplicates.py)
