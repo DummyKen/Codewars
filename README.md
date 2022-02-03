@@ -42,3 +42,4 @@ My codewars kata solutions
 1/2/22|[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/vowel_count.py)
 1/2/22|[Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)|7|[Solution](https://github.com/DummyKen/Codewars/blob/main/7kyu/descending_order.py)
 3/2/22|[Does my number look big in this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/solutions/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/narcissitic_number.py)
+3/2/22|[Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/detect_pangram.py)
