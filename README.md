@@ -44,3 +44,4 @@ My codewars kata solutions
 3/2/22|[Does my number look big in this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/solutions/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/narcissitic_number.py)
 3/2/22|[Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/detect_pangram.py)
 5/2/22|[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/who_likes_it.py)
+6/2/22|[Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/python)|6|[Solution](https://github.com/DummyKen/Codewars/blob/main/6kyu/playing_with_digits.py)
