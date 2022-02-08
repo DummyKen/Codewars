@@ -1,5 +1,5 @@
 # Codewars
-My codewars kata solutions
+My codewars kata solutions(Python version)
 
 
 |Date   |Kata   |Difficulty(**Kyu**)   |Solution |
